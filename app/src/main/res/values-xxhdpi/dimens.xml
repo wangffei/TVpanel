@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_width1_icon">1920px</dimen>
+    <dimen name="top_height1_icon">180px</dimen>
+    <dimen name="center_width1_icon">1920px</dimen>
+    <dimen name="center_height1_icon">720px</dimen>
+    <dimen name="bottom_width1_icon">1920px</dimen>
+    <dimen name="bottom_height1_icon">180px</dimen>
+
+    <dimen name="top_width1_txt">1920px</dimen>
+    <dimen name="top_height1_txt">180px</dimen>
+    <dimen name="center_width1_txt">1920px</dimen>
+    <dimen name="center_height1_txt">720px</dimen>
+    <dimen name="bottom_width1_txt">1920px</dimen>
+    <dimen name="bottom_height1_txt">180px</dimen>
+
+
+    <dimen name="top_width2_txt">1920px</dimen>
+    <dimen name="top_height2_txt">150px</dimen>
+    <dimen name="center_width2_txt">1920px</dimen>
+    <dimen name="center_height2_txt">70px</dimen>
+    <dimen name="bottom_width2_txt">1920px</dimen>
+    <dimen name="bottom_height2_txt">720px</dimen>
+    <dimen name="bottom_pmd_width2_txt">1920px</dimen>
+    <dimen name="bottom_pmd_height2_txt">140px</dimen>
+
+    <dimen name="top_width3_txt">1920px</dimen>
+    <dimen name="top_height3_txt">150px</dimen>
+    <dimen name="center_width3_txt">1920px</dimen>
+    <dimen name="center_height3_txt">70px</dimen>
+    <dimen name="bottom_width3_txt">1920px</dimen>
+    <dimen name="bottom_height3_txt">860px</dimen>
+
+    <dimen name="top_width6">1920px</dimen>
+    <dimen name="top_height6">150px</dimen>
+    <dimen name="center_width6">1920px</dimen>
+    <dimen name="center_height6">780px</dimen>
+    <dimen name="bottom_width6">1920px</dimen>
+    <dimen name="bottom_height6">150px</dimen>
+
+    <dimen name="top_width7">1920px</dimen>
+    <dimen name="top_height7">150px</dimen>
+    <dimen name="center_width7">1920px</dimen>
+    <dimen name="center_height7">930px</dimen>
+
+    <dimen name="bar_icon_Lineay_width">1658px</dimen>
+    <dimen name="bar_icon_Lineay_height">135px</dimen>
+    <dimen name="bar_icon__width">135px</dimen>
+    <dimen name="bar_icon__height">135px</dimen>
+
+    <dimen name="bar_txt_Lineay_width">1658px</dimen>
+    <dimen name="bar_txt_Lineay_height">70px</dimen>
+    <dimen name="bar_txt__width">200px</dimen>
+    <dimen name="bar_txt__height">70px</dimen>
+
+    <dimen name="bottom_pmd_width">1658px</dimen>
+    <dimen name="bottom_pmd_height">80px</dimen>
+
+    <dimen name="logo_width">250px</dimen>
+    <dimen name="logo_height">100px</dimen>
+    <dimen name="logo_margin_left">20px</dimen>
+    <dimen name="content_width">1920px</dimen>
+</resources>

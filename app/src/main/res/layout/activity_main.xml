@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bg"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!-- 布局分为上中下三个部分 -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="230px"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="350px"
+                android:layout_height="130px"
+                android:id="@+id/logo"
+                android:layout_marginTop="50px"
+                android:layout_marginLeft="30px"
+                android:scaleType="fitXY"/>
+
+            <LinearLayout
+                android:layout_width="500px"
+                android:layout_height="230px"
+                android:layout_alignParentRight="true"
+                ></LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="620px">
+            <AbsoluteLayout
+                android:layout_width="1658px"
+                android:layout_height="620px"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/content">
+
+            </AbsoluteLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="230px">
+            <LinearLayout
+                android:layout_width="1658px"
+                android:layout_height="140px"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:id="@+id/bar"></LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>
